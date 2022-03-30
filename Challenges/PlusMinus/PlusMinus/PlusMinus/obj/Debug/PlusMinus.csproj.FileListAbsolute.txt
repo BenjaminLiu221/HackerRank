@@ -1,0 +1,8 @@
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\PlusMinus\PlusMinus\PlusMinus\bin\Debug\PlusMinus.exe.config
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\PlusMinus\PlusMinus\PlusMinus\bin\Debug\PlusMinus.exe
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\PlusMinus\PlusMinus\PlusMinus\bin\Debug\PlusMinus.pdb
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\PlusMinus\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csproj.AssemblyReference.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\PlusMinus\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\PlusMinus\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\PlusMinus\PlusMinus\PlusMinus\obj\Debug\PlusMinus.exe
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\PlusMinus\PlusMinus\PlusMinus\obj\Debug\PlusMinus.pdb

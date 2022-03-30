@@ -23,7 +23,49 @@ class Result
 
     public static void plusMinus(List<int> arr)
     {
+        int arrLength = arr.Count();
+        decimal decArrLength = Convert.ToDecimal(arrLength);
+        int positiveNumbers = 0;
+        int negativeNumbers = 0;
+        int zeroNumbers = 0;
 
+        string[] ratios = new string[] { };
+        Array.Resize(ref ratios, arrLength);
+
+        foreach (int value in arr)
+        {
+            if (value > 0)
+            {
+                positiveNumbers++;
+            }
+            if (value < 0)
+            {
+                negativeNumbers--;
+            }
+            if (value == 0)
+            {
+                zeroNumbers++;
+            }
+        }
+
+        
+
+        var positiveRatio = Math.Abs(Convert.ToDecimal(positiveNumbers) / decArrLength);
+        var negativeRatio = Math.Abs(Convert.ToDecimal(negativeNumbers) / decArrLength);
+        var zeroRatio = Math.Abs(Convert.ToDecimal(zeroNumbers) / decArrLength);
+
+        ratios[0] = positiveRatio.ToString("N6");
+        ratios[1] = negativeRatio.ToString("N6");
+        ratios[2] = zeroRatio.ToString("N6");
+
+        //Console.WriteLine(ratios[0]);
+        //Console.WriteLine(ratios[1]);
+        //Console.WriteLine(ratios[2]);
+
+        foreach (var ratio in ratios)
+        {
+            Console.WriteLine(ratio);
+        }
     }
 
 }
