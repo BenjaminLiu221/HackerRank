@@ -1,0 +1,8 @@
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\StairCase\StairCase\StairCase\bin\Debug\StairCase.exe.config
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\StairCase\StairCase\StairCase\bin\Debug\StairCase.exe
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\StairCase\StairCase\StairCase\bin\Debug\StairCase.pdb
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\StairCase\StairCase\StairCase\obj\Debug\StairCase.csproj.AssemblyReference.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\StairCase\StairCase\StairCase\obj\Debug\StairCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\StairCase\StairCase\StairCase\obj\Debug\StairCase.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\StairCase\StairCase\StairCase\obj\Debug\StairCase.exe
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\StairCase\StairCase\StairCase\obj\Debug\StairCase.pdb

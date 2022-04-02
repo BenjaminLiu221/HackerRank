@@ -23,7 +23,12 @@ class Result
 
     public static void staircase(int n)
     {
-
+        int spaces = 0;
+        int hashes = 0;
+        for (int i = 0; i < n; i++)
+        {
+            Console.WriteLine(" # ");
+        }
     }
 
 }
