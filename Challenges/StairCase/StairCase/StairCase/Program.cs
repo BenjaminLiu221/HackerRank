@@ -23,11 +23,30 @@ class Result
 
     public static void staircase(int n)
     {
+        //int n = 4;
         string asdf = "";
+        int numSpaces = n - 1;
+        int numHash = 0;
+        int charactersInRow = 0;
         for (int i = 0; i < n; i++)
         {
-            asdf = $"{asdf}#";
+            while ((numSpaces > 0) && (charactersInRow < n))
+            {
+                asdf = asdf + " ";
+                numSpaces--;
+                charactersInRow++;
+            }
+            while ((n > numHash) && (charactersInRow < n))
+            {
+                asdf = asdf + "#";
+                numHash++;
+                charactersInRow++;
+            }
             Console.WriteLine(asdf);
+            asdf = "";
+            charactersInRow = 0;
+            numHash = 0;
+            numSpaces = n - 2 - i;
         }
     }
 
