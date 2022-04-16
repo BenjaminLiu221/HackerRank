@@ -1,0 +1,8 @@
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\MiniMaxSum\MiniMaxSum\MiniMaxSum\bin\Debug\MiniMaxSum.exe.config
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\MiniMaxSum\MiniMaxSum\MiniMaxSum\bin\Debug\MiniMaxSum.exe
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\MiniMaxSum\MiniMaxSum\MiniMaxSum\bin\Debug\MiniMaxSum.pdb
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\MiniMaxSum\MiniMaxSum\MiniMaxSum\obj\Debug\MiniMaxSum.csproj.AssemblyReference.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\MiniMaxSum\MiniMaxSum\MiniMaxSum\obj\Debug\MiniMaxSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\MiniMaxSum\MiniMaxSum\MiniMaxSum\obj\Debug\MiniMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\MiniMaxSum\MiniMaxSum\MiniMaxSum\obj\Debug\MiniMaxSum.exe
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\MiniMaxSum\MiniMaxSum\MiniMaxSum\obj\Debug\MiniMaxSum.pdb
