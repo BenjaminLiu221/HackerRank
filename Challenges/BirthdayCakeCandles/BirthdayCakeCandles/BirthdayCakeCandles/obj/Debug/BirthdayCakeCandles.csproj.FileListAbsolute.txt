@@ -1,0 +1,8 @@
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe.config
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.pdb
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csproj.AssemblyReference.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.exe
+C:\Users\benja\Documents\Projects\HackerRank\Challenges\BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.pdb
